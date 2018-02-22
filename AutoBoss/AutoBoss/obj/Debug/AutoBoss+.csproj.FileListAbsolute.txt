@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\bin\Debug\AutoBoss+.dll
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\bin\Debug\AutoBoss+.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\bin\Debug\OTAPI.dll
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\bin\Debug\TerrariaServer.exe
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\bin\Debug\TShockAPI.dll
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\obj\Debug\AutoBoss+.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\obj\Debug\AutoBoss+.dll
+C:\Program Files (x86)\Steam\steamapps\common\Terraria\ServerPlugins\AutoBoss-master\AutoBoss\AutoBoss\obj\Debug\AutoBoss+.pdb
