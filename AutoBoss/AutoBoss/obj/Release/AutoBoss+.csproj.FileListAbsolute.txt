@@ -1,0 +1,6 @@
+E:\OneDrive\Documents\GitHub\AutoBoss\AutoBoss\AutoBoss\obj\Release\AutoBoss+.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\GitHub\AutoBoss\AutoBoss\AutoBoss\obj\Release\AutoBoss+.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\GitHub\AutoBoss\AutoBoss\AutoBoss\bin\Release\AutoBoss+.dll
+E:\OneDrive\Documents\GitHub\AutoBoss\AutoBoss\AutoBoss\bin\Release\AutoBoss+.pdb
+E:\OneDrive\Documents\GitHub\AutoBoss\AutoBoss\AutoBoss\obj\Release\AutoBoss+.dll
+E:\OneDrive\Documents\GitHub\AutoBoss\AutoBoss\AutoBoss\obj\Release\AutoBoss+.pdb
